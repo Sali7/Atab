@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tabs">
+        <item>News</item>
+        <item>Photos</item>
+        <item>Events</item>
+        <item>Contact</item>
+        <item>Contact</item>
+        
+    </string-array>
+
+    <string-array name="birds_img">
+        <item>@drawable/eagle</item>
+        <item>@drawable/eagle</item>
+        <item>@drawable/eagle</item>
+        <item>@drawable/eagle</item>
+        <item>@drawable/eagle</item>
+        
+    </string-array>
+
+</resources>
